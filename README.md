@@ -1,7 +1,6 @@
 Rick and Morty
 
 ![characters](https://user-images.githubusercontent.com/46724595/234790163-d311f31c-4bbd-4bf3-bc46-e38dc9fcc8ba.gif)
-![splashscreen](https://user-images.githubusercontent.com/46724595/234790350-3a0739cf-5575-4da1-b992-46a2bd2f92a1.png)
 ![character](https://user-images.githubusercontent.com/46724595/234790209-9e4674d5-e903-47b3-8ce4-50d889c896be.png)
 ![details](https://user-images.githubusercontent.com/46724595/234790226-3f91e3c9-ee93-462c-aff3-5a226b3d532b.png)
 
