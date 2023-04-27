@@ -1,4 +1,4 @@
-Rick and Morty
+## **Rick and Morty**
 
 ![characters](https://user-images.githubusercontent.com/46724595/234790163-d311f31c-4bbd-4bf3-bc46-e38dc9fcc8ba.gif)
 ![character](https://user-images.githubusercontent.com/46724595/234790209-9e4674d5-e903-47b3-8ce4-50d889c896be.png)
